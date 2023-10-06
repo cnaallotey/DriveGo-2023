@@ -2,7 +2,7 @@
 import LandingHeader from '~/components/LandingHeader.vue';
 <template>
     <div>
-      <LandingHeader />
+      <LandingMenu />
       <LandingHero/> 
     </div>
 </template>
