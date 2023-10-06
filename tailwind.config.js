@@ -8,7 +8,11 @@ export default {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        martelsans: ['Martel Sans', 'sans-serif']
+      },
+    },
   },
   plugins: [],
 }
