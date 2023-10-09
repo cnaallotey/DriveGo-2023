@@ -3,3 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;/*# sourceMappingURL=main.css.map */
+
+*{
+  font-family: "Martel", sans-serif;
+}
