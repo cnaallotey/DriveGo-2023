@@ -2,49 +2,49 @@
   <div class="px-4">
     <section class="relative py-10 md:py-20 lg:py-5 pb-20 lg:pb-20 overflow-hidden">
       <div class="w-full h-full flex-col justify-start items-start gap-[138px] inline-flex">
-        <div class="w-full h-[436px] relative">
-          <div class="w-[30%] h-[90%] left-[433px] top-0 absolute bg-blue-50 rounded-[32px]">
-            <div class="w-[77%] text-slate-900 text-2xl font-martelsans font-normal break-words">
-              Cost of electricity for charging an EV is less than the cost of petrol used for a similar vehicle that’s
-              traveling the same distance.
+        <div class="w-full h-[400px] relative">
+          <div class="w-[32%] h-full left-[1px] absolute bg-orange-50 rounded-[32px]">
+            <div class="left-[41px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#F97316" viewBox="0 0 256 256">
+                <path
+                  d="M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm0,176a80,80,0,1,1,80-80A80.09,80.09,0,0,1,128,216ZM173.66,90.34a8,8,0,0,1,0,11.32l-40,40a8,8,0,0,1-11.32-11.32l40-40A8,8,0,0,1,173.66,90.34ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z">
+                </path>
+              </svg>
+              <div class="w-[75%] text-slate-900 text-2xl font-martelsans font-normal break-words">
+                You no longer have to wait at petrol stations. You can charge your EV at home.
+              </div>
             </div>
           </div>
-          <div class="w-[30%] h-[90%] left-[1px] top-0 absolute  bg-orange-50 rounded-[32px]">
-          </div>
-          <div class="left-[473px] top-[40px] absolute flex-col justify-start items-start gap-8 inline-flex">
-            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#3B82F6" viewBox="0 0 256 256">
-              <path
-                d="M230.33,141.06a24.43,24.43,0,0,0-21.24-4.23l-41.84,9.62A28,28,0,0,0,140,112H89.94a31.82,31.82,0,0,0-22.63,9.37L44.69,144H16A16,16,0,0,0,0,160v40a16,16,0,0,0,16,16H120a7.93,7.93,0,0,0,1.94-.24l64-16a6.94,6.94,0,0,0,1.19-.4L226,182.82l.44-.2a24.6,24.6,0,0,0,3.93-41.56ZM16,160H40v40H16Zm203.43,8.21-38,16.18L119,200H56V155.31l22.63-22.62A15.86,15.86,0,0,1,89.94,128H140a12,12,0,0,1,0,24H112a8,8,0,0,0,0,16h32a8.32,8.32,0,0,0,1.79-.2l67-15.41.31-.08a8.6,8.6,0,0,1,6.3,15.9ZM164,96a36,36,0,0,0,5.9-.48,36,36,0,1,0,28.22-47A36,36,0,1,0,164,96Zm60-12a20,20,0,1,1-20-20A20,20,0,0,1,224,84ZM164,40a20,20,0,0,1,19.25,14.61,36,36,0,0,0-15,24.93A20.42,20.42,0,0,1,164,80a20,20,0,0,1,0-40Z">
-              </path>
-            </svg> -->
-          </div>
-          <div class="w-[30%] h-[90%] left-[865px] top-0 absolute bg-green-50 rounded-[32px]">
-          </div>
-          <div class="left-[41px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
-            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#F97316" viewBox="0 0 256 256">
-              <path
-                d="M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm0,176a80,80,0,1,1,80-80A80.09,80.09,0,0,1,128,216ZM173.66,90.34a8,8,0,0,1,0,11.32l-40,40a8,8,0,0,1-11.32-11.32l40-40A8,8,0,0,1,173.66,90.34ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z">
-              </path>
-            </svg>
-            <div class="w-[35%] text-slate-900 text-2xl font-martelsans font-normal break-words">
-              You no longer have to wait at petrol stations. You can charge your EV at home.
+          <div class="w-[32%] h-full left-[421px] absolute bg-blue-50 rounded-[32px]">
+            <div class="left-[41px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#3B82F6" viewBox="0 0 256 256">
+                <path
+                  d="M230.33,141.06a24.43,24.43,0,0,0-21.24-4.23l-41.84,9.62A28,28,0,0,0,140,112H89.94a31.82,31.82,0,0,0-22.63,9.37L44.69,144H16A16,16,0,0,0,0,160v40a16,16,0,0,0,16,16H120a7.93,7.93,0,0,0,1.94-.24l64-16a6.94,6.94,0,0,0,1.19-.4L226,182.82l.44-.2a24.6,24.6,0,0,0,3.93-41.56ZM16,160H40v40H16Zm203.43,8.21-38,16.18L119,200H56V155.31l22.63-22.62A15.86,15.86,0,0,1,89.94,128H140a12,12,0,0,1,0,24H112a8,8,0,0,0,0,16h32a8.32,8.32,0,0,0,1.79-.2l67-15.41.31-.08a8.6,8.6,0,0,1,6.3,15.9ZM164,96a36,36,0,0,0,5.9-.48,36,36,0,1,0,28.22-47A36,36,0,1,0,164,96Zm60-12a20,20,0,1,1-20-20A20,20,0,0,1,224,84ZM164,40a20,20,0,0,1,19.25,14.61,36,36,0,0,0-15,24.93A20.42,20.42,0,0,1,164,80a20,20,0,0,1,0-40Z">
+                </path>
+              </svg>
+              <div class="w-[75%] text-slate-900 text-2xl font-martelsans font-normal break-words">
+                Cost of electricity for charging an EV is less than the cost of petrol used for a similar vehicle that’s
+                traveling the same distance.
+              </div>
             </div>
           </div>
-          <div class="left-[905px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
-            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#22C55E" viewBox="0 0 256 256">
-              <path
-                d="M116,176a8,8,0,0,1-8,8H80a8,8,0,0,1,0-16h28A8,8,0,0,1,116,176Zm60-8H148a8,8,0,0,0,0,16h28a8,8,0,0,0,0-16Zm72,48a8,8,0,0,1-8,8H16a8,8,0,0,1,0-16H32V88a8,8,0,0,1,12.8-6.4L96,120V88a8,8,0,0,1,12.8-6.4l38.74,29.05L159.1,29.74A16.08,16.08,0,0,1,174.94,16h18.12A16.08,16.08,0,0,1,208.9,29.74l15,105.13s.08.78.08,1.13v72h16A8,8,0,0,1,248,216Zm-85.86-94.4,8.53,6.4h36.11L193.06,32H174.94ZM48,208H208V144H168a8,8,0,0,1-4.8-1.6l-14.4-10.8,0,0L112,104v32a8,8,0,0,1-12.8,6.4L48,104Z">
-              </path>
-            </svg>
-            <div class="w-full text-slate-900 text-2xl font-martelsans font-normal break-words">
-              Carbon emissions of an electric vehicle is lesser than that of a petrol or diesel car which makes the
-              environment safe.
+          <div class="w-[32%] h-full left-[842px] absolute bg-green-50 rounded-[32px]">
+            <div class="left-[41px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#22C55E" viewBox="0 0 256 256">
+                <path
+                  d="M116,176a8,8,0,0,1-8,8H80a8,8,0,0,1,0-16h28A8,8,0,0,1,116,176Zm60-8H148a8,8,0,0,0,0,16h28a8,8,0,0,0,0-16Zm72,48a8,8,0,0,1-8,8H16a8,8,0,0,1,0-16H32V88a8,8,0,0,1,12.8-6.4L96,120V88a8,8,0,0,1,12.8-6.4l38.74,29.05L159.1,29.74A16.08,16.08,0,0,1,174.94,16h18.12A16.08,16.08,0,0,1,208.9,29.74l15,105.13s.08.78.08,1.13v72h16A8,8,0,0,1,248,216Zm-85.86-94.4,8.53,6.4h36.11L193.06,32H174.94ZM48,208H208V144H168a8,8,0,0,1-4.8-1.6l-14.4-10.8,0,0L112,104v32a8,8,0,0,1-12.8,6.4L48,104Z">
+                </path>
+              </svg>
+              <div class="w-[75%] text-slate-900 text-2xl font-martelsans font-normal break-words">
+                Carbon emissions of an electric vehicle is lesser than that of a petrol or diesel car which makes the
+                environment safe.
+              </div>
             </div>
           </div>
         </div>
-        <div style="width: 1279px; height: 459px; position: relative">
+        <div style="width: 100%; height: 459px; position: relative">
           <div
-            style="width: 1279px; height: 459px; left: 0px; top: 0px; position: absolute; background: #F0FDF4; border-radius: 32px">
+            style="width: 100%; height: 459px; left: 0px; top: 0px; position: absolute; background: #F0FDF4; border-radius: 32px">
           </div>
           <div
             style="width: 429px; height: 460px; left: 80px; top: 80px; position: absolute; background: #F1F5F9; border-radius: 20px">
