@@ -135,14 +135,14 @@
         <div class="w-full h-[459px] relative">
           <div class="w-full h-full absolute bg-green-50 rounded-[32px]">
           </div>
-          <div class="left-[80px] top-[80px] absolute justify-start items-center gap-20 inline-flex">
+          <div class="left-[60px] top-[80px] absolute justify-start items-center gap-20 inline-flex">
             <div class="flex-col justify-start items-start gap-4 inline-flex">
               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#F59E0B" viewBox="0 0 256 256">
                 <path
                   d="M184,89.57V84c0-25.08-37.83-44-88-44S8,58.92,8,84v40c0,20.89,26.25,37.49,64,42.46V172c0,25.08,37.83,44,88,44s88-18.92,88-44V132C248,111.3,222.58,94.68,184,89.57ZM232,132c0,13.22-30.79,28-72,28-3.73,0-7.43-.13-11.08-.37C170.49,151.77,184,139,184,124V105.74C213.87,110.19,232,122.27,232,132ZM72,150.25V126.46A183.74,183.74,0,0,0,96,128a183.74,183.74,0,0,0,24-1.54v23.79A163,163,0,0,1,96,152,163,163,0,0,1,72,150.25Zm96-40.32V124c0,8.39-12.41,17.4-32,22.87V123.5C148.91,120.37,159.84,115.71,168,109.93ZM96,56c41.21,0,72,14.78,72,28s-30.79,28-72,28S24,97.22,24,84,54.79,56,96,56ZM24,124V109.93c8.16,5.78,19.09,10.44,32,13.57v23.37C36.41,141.4,24,132.39,24,124Zm64,48v-4.17c2.63.1,5.29.17,8,.17,3.88,0,7.67-.13,11.39-.35A121.92,121.92,0,0,0,120,171.41v23.46C100.41,189.4,88,180.39,88,172Zm48,26.25V174.4a179.48,179.48,0,0,0,24,1.6,183.74,183.74,0,0,0,24-1.54v23.79a165.45,165.45,0,0,1-48,0Zm64-3.38V171.5c12.91-3.13,23.84-7.79,32-13.57V172C232,180.39,219.59,189.4,200,194.87Z">
                 </path>
               </svg>
-              <div class="w-full text-slate-900 text-[32px] font-martelsans font-normal break-words">
+              <div class="w-[593px] text-slate-900 text-[32px] font-martelsans font-normal break-words">
                 Enjoy flexible financing and pay in installments</div>
               <div
                 class="pl-10 pr-10 pt-5 pb-5 bg-slate-900 rounded-[60px] justify-center items-center gap-2.5 inline-flex">
@@ -151,45 +151,43 @@
                     d="M231.79,187.33A80,80,0,0,0,169.57,72.59,80,80,0,1,0,24.21,139.33l-7.66,26.82a14,14,0,0,0,17.3,17.3l26.82-7.66a80.15,80.15,0,0,0,25.75,7.63,80,80,0,0,0,108.91,40.37l26.82,7.66a14,14,0,0,0,17.3-17.3ZM61.53,159.23a8.22,8.22,0,0,0-2.2.3l-26.41,7.55,7.55-26.41a8,8,0,0,0-.68-6,63.95,63.95,0,1,1,25.57,25.57A7.94,7.94,0,0,0,61.53,159.23Zm154,29.44,7.55,26.41-26.41-7.55a8,8,0,0,0-6,.68,64.06,64.06,0,0,1-86.32-24.64A79.93,79.93,0,0,0,174.7,89.71a64,64,0,0,1,41.51,92.93A8,8,0,0,0,215.53,188.67Z">
                   </path>
                 </svg>
-                <div
-                  class="text-white text-sm font-martelsans font-normal break-words">
+                <div class="text-white text-sm font-martelsans font-normal break-words">
                   Speak to Us
                 </div>
               </div>
             </div>
-            <div
-              class="w-[429px] h-[379px] bg-slate-100 rounded-t-[20px] rounded-r-[20px]">
+            <div class="w-[429px] h-[379px] bg-slate-100 rounded-t-[20px] rounded-r-[20px]">
             </div>
           </div>
         </div>
-        <div style="width: 1279px; height: 459px; position: relative">
+        <div class="w-full h-[459px] relative">
           <div
-            style="width: 1279px; height: 459px; left: 0px; top: 0px; position: absolute; background: #F0FDF4; border-radius: 32px">
+            class="w-full h-full absolute bg-green-50 rounded-[32px]">
           </div>
           <div
-            style="left: 80px; top: 80px; position: absolute; justify-content: flex-start; align-items: center; gap: 80px; display: inline-flex">
+            class="left-20 top-20 absolute justify-start items-center gap-20 inline-flex">
             <div
-              style="width: 429px; height: 379px; background: #F1F5F9; border-top-left-radius: 20px; border-top-right-radius: 20px">
+              class="w-[429px] h-[379px] bg-slate-100 rounded-t-[20px] rounded-r-[20px]">
             </div>
             <div
-              style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
-              <div style="width: 40px; height: 40px; position: relative">
-                <div
-                  style="width: 26.88px; height: 34.38px; left: 6.56px; top: 2.81px; position: absolute; background: #EAB308">
-                </div>
-              </div>
+              class="flex-col justify-start items-start gap-4 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#EAB308" viewBox="0 0 256 256">
+                <path
+                  d="M176,232a8,8,0,0,1-8,8H88a8,8,0,0,1,0-16h80A8,8,0,0,1,176,232Zm40-128a87.55,87.55,0,0,1-33.64,69.21A16.24,16.24,0,0,0,176,186v6a16,16,0,0,1-16,16H96a16,16,0,0,1-16-16v-6a16,16,0,0,0-6.23-12.66A87.59,87.59,0,0,1,40,104.5C39.74,56.83,78.26,17.15,125.88,16A88,88,0,0,1,216,104Zm-16,0a72,72,0,0,0-73.74-72c-39,.92-70.47,33.39-70.26,72.39a71.64,71.64,0,0,0,27.64,56.3h0A32,32,0,0,1,96,186v6h24V147.31L90.34,117.66a8,8,0,0,1,11.32-11.32L128,132.69l26.34-26.35a8,8,0,0,1,11.32,11.32L136,147.31V192h24v-6a32.12,32.12,0,0,1,12.47-25.35A71.65,71.65,0,0,0,200,104Z">
+                </path>
+              </svg>
               <div
-                style="width: 593px; color: #0F172A; font-size: 32px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+                class="w-[593px] text-slate-900 text-[32px] font-martelsans font-normal break-words">
                 Have a specific brand or product in mind?</div>
               <div
-                style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #0F172A; border-radius: 60px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
-                <div style="width: 24px; height: 24px; position: relative">
-                  <div
-                    style="width: 19.12px; height: 14.62px; left: 2.44px; top: 4.69px; position: absolute; background: white">
-                  </div>
-                </div>
+                class="pl-10 pr-10 pt-5 pb-5 bg-slate-900 rounded-[60px] justify-center items-center gap-2.5 inline-flex">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#FFFFFF" viewBox="0 0 256 256">
+                  <path
+                    d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z">
+                  </path>
+                </svg>
                 <div
-                  style="color: white; font-size: 14px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+                  class="text-white text-sm font-martelsans font-normal break-words">
                   Contact Us</div>
               </div>
             </div>
@@ -350,6 +348,5 @@
           </div>
         </div>
       </div>
-    </section>
-  </div>
-</template>
+  </section>
+</div></template>
