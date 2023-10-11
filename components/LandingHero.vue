@@ -51,10 +51,10 @@
               </div>
             </div>
           </div>
-          <div class="w-[1278px] h-[436px] relative">
-            <div class="w-[1278px] h-[436px] left-0 top-0 absolute">
+          <div class="w-full h-[436px] relative">
+            <div class="w-full h-[436px] left-0 top-0 absolute">
+              <img class="w-full h-[436px] left-[-1px] top-0 absolute" src="https://via.placeholder.com/1279x436" />
             </div>
-            <img class="w-[1278px] h-[436px] left-[-1px] top-0 absolute" src="https://via.placeholder.com/1279x436" />
           </div>
         </div>
         <div class="w-full h-[72px] relative">
