@@ -15,7 +15,7 @@
               </div>
             </div>
           </div>
-          <div class="w-[32%] h-full left-[419px] absolute bg-blue-50 rounded-[32px]">
+          <div class="w-[32%] h-full left-[414px] absolute bg-blue-50 rounded-[32px]">
             <div class="left-[41px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#3B82F6" viewBox="0 0 256 256">
                 <path
@@ -28,7 +28,7 @@
               </div>
             </div>
           </div>
-          <div class="w-[32%] h-full left-[838px] absolute bg-green-50 rounded-[32px]">
+          <div class="w-[32%] h-full left-[828px] absolute bg-green-50 rounded-[32px]">
             <div class="left-[41px] top-10 absolute flex-col justify-start items-start gap-8 inline-flex">
               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#22C55E" viewBox="0 0 256 256">
                 <path
@@ -57,194 +57,108 @@
               A trusted friend with years of experience in deploying EV businesses across Africa</div>
           </div>
         </div>
-        <!-- <div class="flex-col justify-start items-center gap-10 flex"> -->
-        <div class="justify-center items-start gap-2 inline-flex">
-          <div class="relative">
-            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="#0F172A" viewBox="0 0 256 256">
-              <path
-                d="M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z">
-              </path>
-            </svg>
-          </div>
-          <div>
-            <span class="text-slate-900 text-[32px] font-martelsans font-normal break-words">Choose
-              from list of
-            </span>
-            <span class="text-green-500 text-[32px] font-martelsans font-normal break-words">Electric
-              Vehicles available
-            </span>
-          </div>
-        </div>
         <div class="w-full h-[500px] relative">
+          <div class="justify-center items-start gap-2 inline-flex left-[233px] relative">
+            <div>
+              <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="#0F172A" viewBox="0 0 256 256">
+                <path
+                  d="M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z">
+                </path>
+              </svg>
+            </div>
+            <div class="relative">
+              <span class="text-slate-900 text-[32px] font-martelsans font-normal break-words">Choose
+                from list of
+              </span>
+              <span class="text-green-500 text-[32px] font-martelsans font-normal break-words">Electric
+                Vehicles available
+              </span>
+            </div>
+          </div>
           <div class="w-[32%] h-full left-[1px] absolute bg-slate-900 rounded-[32px]">
             <div>
-              <div
-                class="left-[38px] top-[40.50px] absolute flex-col justify-start items-center inline-flex">
-                <div
-                  class="w-[308px] text-center text-white text-2xl font-martelsans font-normal break-words">
+              <div class="left-[38px] top-[40.50px] absolute flex-col justify-start items-center inline-flex">
+                <div class="w-[308px] text-center text-white text-2xl font-martelsans font-normal break-words">
                   Two - Wheelers
                 </div>
-                <div
-                  class="text-slate-200 text-base font-martelsans font-normal break-words">
+                <div class="text-slate-200 text-base font-martelsans font-normal break-words">
                   Bikes and Scooters
                 </div>
                 <img class="w-[241px] h-[241px] left-9 top-[80.50px] absolute"
                   src="https://via.placeholder.com/241x241" />
                 <div
                   class="pl-10 pr-10 pt-5 pb-5 left-[72px] top-[330px] absolute bg-white rounded-[60px] justify-center items-center gap-[10px] inline-flex">
-                  <div
-                    class="text-slate-800 text-sm font-martelsans font-normal break-words">
+                  <div class="text-slate-800 text-sm font-martelsans font-normal break-words">
                     View Details</div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="w-[32%] h-full left-[419px] absolute bg-slate-900 rounded-[32px]">
+          <div class="w-[32%] h-full left-[414px] absolute bg-slate-900 rounded-[32px]">
             <div>
-              <div
-              class="left-[38px] top-[40.50px] absolute flex-col justify-start items-center inline-flex">
-                <div
-                class="w-[308px] text-center text-white text-2xl font-martelsans font-normal break-words">
+              <div class="left-[38px] top-[40.50px] absolute flex-col justify-start items-center inline-flex">
+                <div class="w-[308px] text-center text-white text-2xl font-martelsans font-normal break-words">
                   Three - Wheelers
                 </div>
-                <div
-                class="text-slate-200 text-base font-martelsans font-normal break-words">
+                <div class="text-slate-200 text-base font-martelsans font-normal break-words">
                   Keke / Pragya
                 </div>
                 <img class="w-[241px] h-[241px] left-9 top-[80.50px] absolute"
                   src="https://via.placeholder.com/241x241" />
                 <div
-                class="pl-10 pr-10 pt-5 pb-5 left-[72px] top-[330px] absolute bg-white rounded-[60px] justify-center items-center gap-[10px] inline-flex">
-                  <div
-                  class="text-slate-800 text-sm font-martelsans font-normal break-words">
+                  class="pl-10 pr-10 pt-5 pb-5 left-[72px] top-[330px] absolute bg-white rounded-[60px] justify-center items-center gap-[10px] inline-flex">
+                  <div class="text-slate-800 text-sm font-martelsans font-normal break-words">
                     View Details</div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="w-[32%] h-full left-[838px] absolute bg-slate-900 rounded-[32px]">
+          <div class="w-[32%] h-full left-[828px] absolute bg-slate-900 rounded-[32px]">
             <div>
-              <div
-              class="left-[38px] top-[40.50px] absolute flex-col justify-start items-center inline-flex">
-                <div
-                class="w-[308px] text-center text-white text-2xl font-martelsans font-normal break-words">
+              <div class="left-[38px] top-[40.50px] absolute flex-col justify-start items-center inline-flex">
+                <div class="w-[308px] text-center text-white text-2xl font-martelsans font-normal break-words">
                   Cars
                 </div>
-                <div
-                class="text-slate-200 text-base font-martelsans font-normal break-words">
+                <div class="text-slate-200 text-base font-martelsans font-normal break-words">
                 </div>
                 <img class="w-[241px] h-[241px] left-9 top-[80.50px] absolute"
                   src="https://via.placeholder.com/241x241" />
                 <div
-                class="pl-10 pr-10 pt-5 pb-5 left-[72px] top-[330px] absolute bg-white rounded-[60px] justify-center items-center gap-[10px] inline-flex">
-                  <div
-                  class="text-slate-800 text-sm font-martelsans font-normal break-words">
+                  class="pl-10 pr-10 pt-5 pb-5 left-[72px] top-[330px] absolute bg-white rounded-[60px] justify-center items-center gap-[10px] inline-flex">
+                  <div class="text-slate-800 text-sm font-martelsans font-normal break-words">
                     View Details</div>
                 </div>
               </div>
             </div>
           </div>
-          <!-- </div> -->
-
-          <!-- <div style="width: 1278px; height: 488px; position: relative">
-            <div style="width: 1278px; height: 436px; left: 0px; top: 0px; position: absolute"></div>
-            <div style="width: 412px; height: 476px; left: 433px; top: 0px; position: absolute">
-              <div
-                style="width: 412px; height: 476px; left: 0px; top: 0px; position: absolute; background: #0F172A; border-radius: 32px">
-              </div>
-              <div
-                style="left: 52px; top: 40.50px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
-                <div
-                  style="width: 308px; text-align: center; color: white; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  Three - Wheelers </div>
-                <div
-                  style="color: #E2E8F0; font-size: 16px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  Keke / Pragya</div>
-              </div>
-              <img style="width: 269px; height: 206px; left: 60px; top: 132px; position: absolute"
-                src="https://via.placeholder.com/269x206" />
-              <div
-                style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; left: 124px; top: 355px; position: absolute; background: white; border-radius: 60px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
-                <div
-                  style="color: #1E293B; font-size: 14px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  View Details</div>
-              </div>
-            </div>
-            <div style="width: 412px; height: 476px; left: 1px; top: 0px; position: absolute; background: white">
-              <div
-                style="width: 412px; height: 476px; left: 0px; top: 0px; position: absolute; background: #0F172A; border-radius: 32px">
-              </div>
-              <div
-                style="left: 52px; top: 40.50px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
-                <div
-                  style="width: 308px; text-align: center; color: white; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  Two - Wheelers 
-                </div>
-                <div
-                  style="color: #E2E8F0; font-size: 16px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  Bikes and Scooters
-                </div>
-              </div>
-              <img style="width: 241px; height: 241px; left: 68px; top: 113.50px; position: absolute"
-                src="https://via.placeholder.com/241x241" />
-              <div
-                style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; left: 124px; top: 355px; position: absolute; background: white; border-radius: 60px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
-                <div
-                  style="color: #1E293B; font-size: 14px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  View Details</div>
-              </div>
-            </div>
-            <div style="width: 412px; height: 476px; left: 865px; top: 0px; position: absolute">
-              <div
-                style="width: 412px; height: 476px; left: 0px; top: 0px; position: absolute; background: #0F172A; border-radius: 32px">
-              </div>
-              <img style="width: 454px; height: 254px; left: -33px; top: 95px; position: absolute"
-                src="https://via.placeholder.com/454x254" />
-              <div
-                style="left: 52px; top: 39.50px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
-                <div
-                  style="width: 308px; text-align: center; color: white; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  Cars</div>
-              </div>
-              <div
-                style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; left: 124px; top: 355px; position: absolute; background: white; border-radius: 60px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
-                <div
-                  style="color: #1E293B; font-size: 14px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  View Details</div>
-              </div>
-            </div>
-          </div> -->
         </div>
-        <div style="width: 1279px; height: 459px; position: relative">
-          <div
-            style="width: 1279px; height: 459px; left: 0px; top: 0px; position: absolute; background: #F0FDF4; border-radius: 32px">
+        <div class="w-full h-[459px] relative">
+          <div class="w-full h-full absolute bg-green-50 rounded-[32px]">
           </div>
-          <div
-            style="left: 80px; top: 80px; position: absolute; justify-content: flex-start; align-items: center; gap: 80px; display: inline-flex">
-            <div
-              style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
-              <div style="width: 40px; height: 40px; position: relative">
-                <div
-                  style="width: 36.88px; height: 26.88px; left: 1.56px; top: 6.56px; position: absolute; background: #F59E0B">
-                </div>
-              </div>
-              <div
-                style="width: 593px; color: #0F172A; font-size: 32px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+          <div class="left-[80px] top-[80px] absolute justify-start items-center gap-20 inline-flex">
+            <div class="flex-col justify-start items-start gap-4 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#F59E0B" viewBox="0 0 256 256">
+                <path
+                  d="M184,89.57V84c0-25.08-37.83-44-88-44S8,58.92,8,84v40c0,20.89,26.25,37.49,64,42.46V172c0,25.08,37.83,44,88,44s88-18.92,88-44V132C248,111.3,222.58,94.68,184,89.57ZM232,132c0,13.22-30.79,28-72,28-3.73,0-7.43-.13-11.08-.37C170.49,151.77,184,139,184,124V105.74C213.87,110.19,232,122.27,232,132ZM72,150.25V126.46A183.74,183.74,0,0,0,96,128a183.74,183.74,0,0,0,24-1.54v23.79A163,163,0,0,1,96,152,163,163,0,0,1,72,150.25Zm96-40.32V124c0,8.39-12.41,17.4-32,22.87V123.5C148.91,120.37,159.84,115.71,168,109.93ZM96,56c41.21,0,72,14.78,72,28s-30.79,28-72,28S24,97.22,24,84,54.79,56,96,56ZM24,124V109.93c8.16,5.78,19.09,10.44,32,13.57v23.37C36.41,141.4,24,132.39,24,124Zm64,48v-4.17c2.63.1,5.29.17,8,.17,3.88,0,7.67-.13,11.39-.35A121.92,121.92,0,0,0,120,171.41v23.46C100.41,189.4,88,180.39,88,172Zm48,26.25V174.4a179.48,179.48,0,0,0,24,1.6,183.74,183.74,0,0,0,24-1.54v23.79a165.45,165.45,0,0,1-48,0Zm64-3.38V171.5c12.91-3.13,23.84-7.79,32-13.57V172C232,180.39,219.59,189.4,200,194.87Z">
+                </path>
+              </svg>
+              <div class="w-full text-slate-900 text-[32px] font-martelsans font-normal break-words">
                 Enjoy flexible financing and pay in installments</div>
               <div
-                style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #0F172A; border-radius: 60px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
-                <div style="width: 24px; height: 24px; position: relative">
-                  <div
-                    style="width: 20.63px; height: 19.12px; left: 1.69px; top: 2.44px; position: absolute; background: white">
-                  </div>
-                </div>
+                class="pl-10 pr-10 pt-5 pb-5 bg-slate-900 rounded-[60px] justify-center items-center gap-2.5 inline-flex">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#ffffff" viewBox="0 0 256 256">
+                  <path
+                    d="M231.79,187.33A80,80,0,0,0,169.57,72.59,80,80,0,1,0,24.21,139.33l-7.66,26.82a14,14,0,0,0,17.3,17.3l26.82-7.66a80.15,80.15,0,0,0,25.75,7.63,80,80,0,0,0,108.91,40.37l26.82,7.66a14,14,0,0,0,17.3-17.3ZM61.53,159.23a8.22,8.22,0,0,0-2.2.3l-26.41,7.55,7.55-26.41a8,8,0,0,0-.68-6,63.95,63.95,0,1,1,25.57,25.57A7.94,7.94,0,0,0,61.53,159.23Zm154,29.44,7.55,26.41-26.41-7.55a8,8,0,0,0-6,.68,64.06,64.06,0,0,1-86.32-24.64A79.93,79.93,0,0,0,174.7,89.71a64,64,0,0,1,41.51,92.93A8,8,0,0,0,215.53,188.67Z">
+                  </path>
+                </svg>
                 <div
-                  style="color: white; font-size: 14px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                  Speak to Us</div>
+                  class="text-white text-sm font-martelsans font-normal break-words">
+                  Speak to Us
+                </div>
               </div>
             </div>
             <div
-              style="width: 429px; height: 379px; background: #F1F5F9; border-top-left-radius: 20px; border-top-right-radius: 20px">
+              class="w-[429px] h-[379px] bg-slate-100 rounded-t-[20px] rounded-r-[20px]">
             </div>
           </div>
         </div>
