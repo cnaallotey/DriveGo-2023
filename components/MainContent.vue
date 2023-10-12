@@ -254,95 +254,96 @@
             </div>
           </div>
         </div>
-        <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 40px; display: flex">
-          <div style="justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
-            <div style="width: 48px; height: 48px; position: relative">
-              <div
-                style="width: 26.22px; height: 26.22px; left: 10.90px; top: 10.90px; position: absolute; background: #0F172A">
-              </div>
-            </div>
-            <div><span
-                style="color: #0F172A; font-size: 32px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">Frequently
-                Asked </span><span
-                style="color: #22C55E; font-size: 32px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">Questions</span>
+        <div class="flex-col justify-start items-center gap-10 flex">
+          <div class="justify-center items-start gap-2 inline-flex">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="#0F172A" viewBox="0 0 256 256">
+              <path
+                d="M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z">
+              </path>
+            </svg>
+            <div>
+              <span class="text-slate-900 text-[32px] font-martelsans font-normal break-words">Frequently
+                Asked
+              </span>
+              <span class="text-green-500 text-[32px] font-martelsans font-normal break-words">
+                Questions
+              </span>
             </div>
           </div>
-          <div style="width: 1278px; height: 436px; position: relative">
-            <div style="width: 1278px; height: 436px; left: 0px; top: 0px; position: absolute"></div>
-            <div style="width: 602px; height: 436px; left: 676px; top: 60px; position: absolute"></div>
+          <div class="w-[1278px] h-[436px] relative">
             <div
-              style="left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: center; gap: 81px; display: inline-flex">
+              class="left-0 top-12 absolute justify-start items-center gap-[81px] inline-flex">
               <div
-                style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+                class="flex-col justify-start items-start gap-4 inline-flex">
                 <div
-                  style="width: 568px; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; background: #F8FAFC; border-radius: 32px; border: 1px #E2E8F0 solid; justify-content: space-between; align-items: center; display: inline-flex">
+                  class="w-[568px] pl-6 pr-6 pt-2.5 pb-2.5 bg-slate-50 rounded-[32px] border-solid border-[1px] border-slate-200 justify-between items-center inline-flex">
                   <div
-                    style="width: 451px; color: #0F172A; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+                    class="w-[451px] text-slate-900 text-2xl font-martelsans font-normal break-words">
                     Do electric cars break down more?</div>
-                  <div style="width: 32px; height: 32px; position: relative">
-                    <div
-                      style="width: 25.50px; height: 25.50px; left: 3.25px; top: 3.25px; position: absolute; background: #22C55E">
-                    </div>
-                  </div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#22C55E" viewBox="0 0 256 256">
+                    <path
+                      d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-104v48a8,8,0,0,1-8,8H112a8,8,0,0,1,0-16h28.69L90.34,101.66a8,8,0,0,1,11.32-11.32L152,140.69V112a8,8,0,0,1,16,0Z">
+                    </path>
+                  </svg>
                 </div>
                 <div
-                  style="width: 568px; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; border-radius: 32px; border: 1px #E2E8F0 solid; justify-content: space-between; align-items: center; display: inline-flex">
+                class="w-[568px] pl-6 pr-6 pt-2.5 pb-2.5 bg-slate-50 rounded-[32px] border-solid border-[1px] border-slate-200 justify-between items-center inline-flex">
                   <div
-                    style="width: 472px; color: #0F172A; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+                  class="w-[451px] text-slate-900 text-2xl font-martelsans font-normal break-words">
                     Can you buy or sell second-hand electric cars?</div>
-                  <div style="width: 32px; height: 32px; position: relative">
-                    <div
-                      style="width: 25.50px; height: 25.50px; left: 3.25px; top: 3.25px; position: absolute; background: #64748B">
-                    </div>
-                  </div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#64748B" viewBox="0 0 256 256">
+                    <path
+                      d="M168,96v48a8,8,0,0,1-16,0V115.31l-50.34,50.35a8,8,0,0,1-11.32-11.32L140.69,104H112a8,8,0,0,1,0-16h48A8,8,0,0,1,168,96Zm64,32A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z">
+                    </path>
+                  </svg>
                 </div>
                 <div
-                  style="width: 568px; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; border-radius: 32px; border: 1px #E2E8F0 solid; justify-content: space-between; align-items: center; display: inline-flex">
+                class="w-[568px] pl-6 pr-6 pt-2.5 pb-2.5 bg-slate-50 rounded-[32px] border-solid border-[1px] border-slate-200 justify-between items-center inline-flex">
                   <div
-                    style="width: 451px; color: #0F172A; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+                  class="w-[451px] text-slate-900 text-2xl font-martelsans font-normal break-words">
                     How long can my EV’s battery last?</div>
-                  <div style="width: 32px; height: 32px; position: relative">
-                    <div
-                      style="width: 25.50px; height: 25.50px; left: 3.25px; top: 3.25px; position: absolute; background: #64748B">
-                    </div>
-                  </div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#64748B" viewBox="0 0 256 256">
+                    <path
+                      d="M168,96v48a8,8,0,0,1-16,0V115.31l-50.34,50.35a8,8,0,0,1-11.32-11.32L140.69,104H112a8,8,0,0,1,0-16h48A8,8,0,0,1,168,96Zm64,32A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z">
+                    </path>
+                  </svg>
                 </div>
                 <div
-                  style="width: 568px; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; border-radius: 32px; border: 1px #E2E8F0 solid; justify-content: space-between; align-items: center; display: inline-flex">
+                class="w-[568px] pl-6 pr-6 pt-2.5 pb-2.5 bg-slate-50 rounded-[32px] border-solid border-[1px] border-slate-200 justify-between items-center inline-flex">
                   <div
-                    style="width: 451px; color: #0F172A; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
+                  class="w-[451px] text-slate-900 text-2xl font-martelsans font-normal break-words">
                     How long does it take to charge an EV battery?</div>
-                  <div style="width: 32px; height: 32px; position: relative">
-                    <div
-                      style="width: 25.50px; height: 25.50px; left: 3.25px; top: 3.25px; position: absolute; background: #64748B">
-                    </div>
-                  </div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#64748B" viewBox="0 0 256 256">
+                    <path
+                      d="M168,96v48a8,8,0,0,1-16,0V115.31l-50.34,50.35a8,8,0,0,1-11.32-11.32L140.69,104H112a8,8,0,0,1,0-16h48A8,8,0,0,1,168,96Zm64,32A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z">
+                    </path>
+                  </svg>
                 </div>
               </div>
-              <div style="width: 629px; height: 436px; position: relative">
-                <div
-                  style="width: 629px; height: 436px; left: 0px; top: 0px; position: absolute; background: #F0FDF4; border-radius: 32px">
-                </div>
-                <div
-                  style="width: 516px; height: 204px; left: 40px; top: 116px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
-                  <div style="width: 40px; height: 40px; position: relative">
-                    <div
-                      style="width: 31.88px; height: 31.87px; left: 4.06px; top: 4.07px; position: absolute; background: #22C55E">
+            </div>
+            <div style="left: 600px; position: absolute">
+              <div>
+                <div class="w-[629px] h-[436px] left-0 top-0 absolute bg-green-50 rounded-[32px]">
+                  <div class="left-10 top-[116px] absolute flex-col justify-start items-start gap-8 inline-flex">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#22C55E" viewBox="0 0 256 256">
+                      <path
+                        d="M168,112a8,8,0,0,1-8,8H96a8,8,0,0,1,0-16h64A8,8,0,0,1,168,112Zm-8,24H96a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16Zm72-8A104,104,0,0,1,79.12,219.82L45.07,231.17a16,16,0,0,1-20.24-20.24l11.35-34.05A104,104,0,1,1,232,128Zm-16,0A88,88,0,1,0,51.81,172.06a8,8,0,0,1,.66,6.54L40,216,77.4,203.53a7.85,7.85,0,0,1,2.53-.42,8,8,0,0,1,4,1.08A88,88,0,0,0,216,128Z">
+                      </path>
+                    </svg>
+                    <div class="w-[79%] text-slate-900 text-2xl font-martelsans font-normal break-words">
+                      Carbon emissions of an electric vehicle is lesser than that of a petrol or diesel car which makes
+                      the environment safe.
                     </div>
                   </div>
-                  <div
-                    style="width: 497px; color: #0F172A; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                    Carbon emissions of an electric vehicle is lesser than that of a petrol or diesel car which makes the
-                    environment safe. </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div style="width: 32px; height: 32px; position: relative">
+        <!-- <div style="width: 32px; height: 32px; position: relative">
           <div style="width: 25.50px; height: 25.50px; left: 3.25px; top: 3.25px; position: absolute; background: black">
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
   </div>
