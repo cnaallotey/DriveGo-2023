@@ -161,24 +161,20 @@
           </div>
         </div>
         <div class="w-full h-[459px] relative">
-          <div
-            class="w-full h-full absolute bg-green-50 rounded-[32px]">
+          <div class="w-full h-full absolute bg-green-50 rounded-[32px]">
           </div>
-          <div
-            class="left-20 top-20 absolute justify-start items-center gap-20 inline-flex">
-            <div
-              class="w-[429px] h-[379px] bg-slate-100 rounded-t-[20px] rounded-r-[20px]">
+          <div class="left-20 top-20 absolute justify-start items-center gap-20 inline-flex">
+            <div class="w-[429px] h-[379px] bg-slate-100 rounded-t-[20px] rounded-r-[20px]">
             </div>
-            <div
-              class="flex-col justify-start items-start gap-4 inline-flex">
+            <div class="flex-col justify-start items-start gap-4 inline-flex">
               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#EAB308" viewBox="0 0 256 256">
                 <path
                   d="M176,232a8,8,0,0,1-8,8H88a8,8,0,0,1,0-16h80A8,8,0,0,1,176,232Zm40-128a87.55,87.55,0,0,1-33.64,69.21A16.24,16.24,0,0,0,176,186v6a16,16,0,0,1-16,16H96a16,16,0,0,1-16-16v-6a16,16,0,0,0-6.23-12.66A87.59,87.59,0,0,1,40,104.5C39.74,56.83,78.26,17.15,125.88,16A88,88,0,0,1,216,104Zm-16,0a72,72,0,0,0-73.74-72c-39,.92-70.47,33.39-70.26,72.39a71.64,71.64,0,0,0,27.64,56.3h0A32,32,0,0,1,96,186v6h24V147.31L90.34,117.66a8,8,0,0,1,11.32-11.32L128,132.69l26.34-26.35a8,8,0,0,1,11.32,11.32L136,147.31V192h24v-6a32.12,32.12,0,0,1,12.47-25.35A71.65,71.65,0,0,0,200,104Z">
                 </path>
               </svg>
-              <div
-                class="w-[593px] text-slate-900 text-[32px] font-martelsans font-normal break-words">
-                Have a specific brand or product in mind?</div>
+              <div class="w-[593px] text-slate-900 text-[32px] font-martelsans font-normal break-words">
+                Have a specific brand or product in mind?
+              </div>
               <div
                 class="pl-10 pr-10 pt-5 pb-5 bg-slate-900 rounded-[60px] justify-center items-center gap-2.5 inline-flex">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#FFFFFF" viewBox="0 0 256 256">
@@ -186,75 +182,75 @@
                     d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z">
                   </path>
                 </svg>
-                <div
-                  class="text-white text-sm font-martelsans font-normal break-words">
-                  Contact Us</div>
+                <div class="text-white text-sm font-martelsans font-normal break-words">
+                  Contact Us
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div style="width: 1279px; height: 571px; position: relative">
-          <div
-            style="width: 599px; height: 571px; left: 0px; top: 0px; position: absolute; background: #0F172A; border-radius: 32px">
-          </div>
-          <div
-            style="width: 599px; height: 571px; left: 680px; top: 0px; position: absolute; background: #0F172A; border-radius: 32px">
-          </div>
-          <div
-            style="height: 320px; left: 60px; top: 60px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
-            <div style="width: 40px; height: 40px; position: relative">
-              <div
-                style="width: 21.88px; height: 38.12px; left: 9.06px; top: 0.31px; position: absolute; background: #3B82F6">
+        <div class="w-full h-[520px] relative">
+          <div class="w-[48%] h-full left-0 top-0 absolute bg-slate-900 rounded-[32px]">
+            <div class="h-[56%] left-[60px] top-[60px] absolute flex-col justify-start items-start gap-4 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#3B82F6" viewBox="0 0 256 256">
+                <path
+                  d="M88,8a8,8,0,0,1,8-8h64a8,8,0,0,1,0,16H96A8,8,0,0,1,88,8ZM200,56V224a24,24,0,0,1-24,24H80a24,24,0,0,1-24-24V56A24,24,0,0,1,80,32h96A24,24,0,0,1,200,56Zm-16,0a8,8,0,0,0-8-8H80a8,8,0,0,0-8,8V224a8,8,0,0,0,8,8h96a8,8,0,0,0,8-8Zm-28,76H136V112a8,8,0,0,0-16,0v20H100a8,8,0,0,0,0,16h20v20a8,8,0,0,0,16,0V148h20a8,8,0,0,0,0-16Z">
+                </path>
+              </svg>
+              <div class="w-[99%] text-white text-[32px] font-martelsans font-normal break-words">
+                Worried about your EV battery wearing out?
               </div>
-            </div>
-            <div
-              style="width: 593px; color: white; font-size: 32px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-              Worried about your EV battery wearing out?</div>
-            <div style="width: 483px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
-              <div
-                style="width: 393px; color: #E2E8F0; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                Access battery charging and pre-charged battery swap stations across Accra. </div>
-            </div>
-          </div>
-          <div
-            style="left: 740px; top: 60px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
-            <div style="width: 40px; height: 40px; position: relative">
-              <div
-                style="width: 31.88px; height: 31.88px; left: 4.06px; top: 4.06px; position: absolute; background: #F43F5E">
-              </div>
-            </div>
-            <div
-              style="width: 443px; color: white; font-size: 32px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-              Enjoy total support of your EV </div>
-            <div style="width: 483px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
-              <div style="width: 32px; height: 32px; position: relative">
-                <div
-                  style="width: 27.50px; height: 27.50px; left: 2.25px; top: 2.25px; position: absolute; background: #22C55E">
+              <div class="w-[81%] justify-start items-center gap-4 inline-flex">
+                <div class="w-[81%] text-slate-200 text-2xl font-martelsans font-normal break-words">
+                  Access battery charging and pre-charged battery swap stations across Accra.
                 </div>
               </div>
-              <div
-                style="width: 393px; color: #E2E8F0; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                Insurance</div>
             </div>
-            <div style="width: 483px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
-              <div style="width: 32px; height: 32px; position: relative">
-                <div
-                  style="width: 27.50px; height: 27.50px; left: 2.25px; top: 2.25px; position: absolute; background: #22C55E">
+          </div>
+          <div class="w-[48%] h-full left-[640px] top-0 absolute bg-slate-900 rounded-[32px]">
+            <div class="h-[69%] left-[60px] top-[60px] absolute flex-col justify-start items-start gap-4 inline-flex">
+              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#F43F5E" viewBox="0 0 256 256">
+                <path
+                  d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm39.1,131.79a47.84,47.84,0,0,0,0-55.58l28.5-28.49a87.83,87.83,0,0,1,0,112.56ZM96,128a32,32,0,1,1,32,32A32,32,0,0,1,96,128Zm88.28-67.6L155.79,88.9a47.84,47.84,0,0,0-55.58,0L71.72,60.4a87.83,87.83,0,0,1,112.56,0ZM60.4,71.72l28.5,28.49a47.84,47.84,0,0,0,0,55.58L60.4,184.28a87.83,87.83,0,0,1,0-112.56ZM71.72,195.6l28.49-28.5a47.84,47.84,0,0,0,55.58,0l28.49,28.5a87.83,87.83,0,0,1-112.56,0Z">
+                </path>
+              </svg>
+              <div class="w-[81%] text-white text-[32px] font-martelsans font-normal break-words">
+                Enjoy total support of your EV
+              </div>
+              <div class="w-[81%] justify-start items-center gap-4 inline-flex">
+                <div class="w-full text-slate-200 text-2xl font-martelsans font-normal break-words">
+                  <div class="w-full justify-start items-center gap-4 inline-flex">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#22C55E" viewBox="0 0 256 256">
+                      <path
+                        d="M225.86,102.82c-3.77-3.94-7.67-8-9.14-11.57-1.36-3.27-1.44-8.69-1.52-13.94-.15-9.76-.31-20.82-8-28.51s-18.75-7.85-28.51-8c-5.25-.08-10.67-.16-13.94-1.52-3.56-1.47-7.63-5.37-11.57-9.14C146.28,23.51,138.44,16,128,16s-18.27,7.51-25.18,14.14c-3.94,3.77-8,7.67-11.57,9.14C88,40.64,82.56,40.72,77.31,40.8c-9.76.15-20.82.31-28.51,8S41,67.55,40.8,77.31c-.08,5.25-.16,10.67-1.52,13.94-1.47,3.56-5.37,7.63-9.14,11.57C23.51,109.72,16,117.56,16,128s7.51,18.27,14.14,25.18c3.77,3.94,7.67,8,9.14,11.57,1.36,3.27,1.44,8.69,1.52,13.94.15,9.76.31,20.82,8,28.51s18.75,7.85,28.51,8c5.25.08,10.67.16,13.94,1.52,3.56,1.47,7.63,5.37,11.57,9.14C109.72,232.49,117.56,240,128,240s18.27-7.51,25.18-14.14c3.94-3.77,8-7.67,11.57-9.14,3.27-1.36,8.69-1.44,13.94-1.52,9.76-.15,20.82-.31,28.51-8s7.85-18.75,8-28.51c.08-5.25.16-10.67,1.52-13.94,1.47-3.56,5.37-7.63,9.14-11.57C232.49,146.28,240,138.44,240,128S232.49,109.73,225.86,102.82Zm-11.55,39.29c-4.79,5-9.75,10.17-12.38,16.52-2.52,6.1-2.63,13.07-2.73,19.82-.1,7-.21,14.33-3.32,17.43s-10.39,3.22-17.43,3.32c-6.75.1-13.72.21-19.82,2.73-6.35,2.63-11.52,7.59-16.52,12.38S132,224,128,224s-9.15-4.92-14.11-9.69-10.17-9.75-16.52-12.38c-6.1-2.52-13.07-2.63-19.82-2.73-7-.1-14.33-.21-17.43-3.32s-3.22-10.39-3.32-17.43c-.1-6.75-.21-13.72-2.73-19.82-2.63-6.35-7.59-11.52-12.38-16.52S32,132,32,128s4.92-9.15,9.69-14.11,9.75-10.17,12.38-16.52c2.52-6.1,2.63-13.07,2.73-19.82.1-7,.21-14.33,3.32-17.43S70.51,56.9,77.55,56.8c6.75-.1,13.72-.21,19.82-2.73,6.35-2.63,11.52-7.59,16.52-12.38S124,32,128,32s9.15,4.92,14.11,9.69,10.17,9.75,16.52,12.38c6.1,2.52,13.07,2.63,19.82,2.73,7,.1,14.33.21,17.43,3.32s3.22,10.39,3.32,17.43c.1,6.75.21,13.72,2.73,19.82,2.63,6.35,7.59,11.52,12.38,16.52S224,124,224,128,219.08,137.15,214.31,142.11ZM173.66,98.34a8,8,0,0,1,0,11.32l-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35A8,8,0,0,1,173.66,98.34Z">
+                      </path>
+                    </svg>
+                    <div>
+                      Insurance
+                    </div>
+                  </div>
+                  <div class="w-full justify-start items-center gap-4 inline-flex">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#22C55E" viewBox="0 0 256 256">
+                      <path
+                        d="M225.86,102.82c-3.77-3.94-7.67-8-9.14-11.57-1.36-3.27-1.44-8.69-1.52-13.94-.15-9.76-.31-20.82-8-28.51s-18.75-7.85-28.51-8c-5.25-.08-10.67-.16-13.94-1.52-3.56-1.47-7.63-5.37-11.57-9.14C146.28,23.51,138.44,16,128,16s-18.27,7.51-25.18,14.14c-3.94,3.77-8,7.67-11.57,9.14C88,40.64,82.56,40.72,77.31,40.8c-9.76.15-20.82.31-28.51,8S41,67.55,40.8,77.31c-.08,5.25-.16,10.67-1.52,13.94-1.47,3.56-5.37,7.63-9.14,11.57C23.51,109.72,16,117.56,16,128s7.51,18.27,14.14,25.18c3.77,3.94,7.67,8,9.14,11.57,1.36,3.27,1.44,8.69,1.52,13.94.15,9.76.31,20.82,8,28.51s18.75,7.85,28.51,8c5.25.08,10.67.16,13.94,1.52,3.56,1.47,7.63,5.37,11.57,9.14C109.72,232.49,117.56,240,128,240s18.27-7.51,25.18-14.14c3.94-3.77,8-7.67,11.57-9.14,3.27-1.36,8.69-1.44,13.94-1.52,9.76-.15,20.82-.31,28.51-8s7.85-18.75,8-28.51c.08-5.25.16-10.67,1.52-13.94,1.47-3.56,5.37-7.63,9.14-11.57C232.49,146.28,240,138.44,240,128S232.49,109.73,225.86,102.82Zm-11.55,39.29c-4.79,5-9.75,10.17-12.38,16.52-2.52,6.1-2.63,13.07-2.73,19.82-.1,7-.21,14.33-3.32,17.43s-10.39,3.22-17.43,3.32c-6.75.1-13.72.21-19.82,2.73-6.35,2.63-11.52,7.59-16.52,12.38S132,224,128,224s-9.15-4.92-14.11-9.69-10.17-9.75-16.52-12.38c-6.1-2.52-13.07-2.63-19.82-2.73-7-.1-14.33-.21-17.43-3.32s-3.22-10.39-3.32-17.43c-.1-6.75-.21-13.72-2.73-19.82-2.63-6.35-7.59-11.52-12.38-16.52S32,132,32,128s4.92-9.15,9.69-14.11,9.75-10.17,12.38-16.52c2.52-6.1,2.63-13.07,2.73-19.82.1-7,.21-14.33,3.32-17.43S70.51,56.9,77.55,56.8c6.75-.1,13.72-.21,19.82-2.73,6.35-2.63,11.52-7.59,16.52-12.38S124,32,128,32s9.15,4.92,14.11,9.69,10.17,9.75,16.52,12.38c6.1,2.52,13.07,2.63,19.82,2.73,7,.1,14.33.21,17.43,3.32s3.22,10.39,3.32,17.43c.1,6.75.21,13.72,2.73,19.82,2.63,6.35,7.59,11.52,12.38,16.52S224,124,224,128,219.08,137.15,214.31,142.11ZM173.66,98.34a8,8,0,0,1,0,11.32l-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35A8,8,0,0,1,173.66,98.34Z">
+                      </path>
+                    </svg>
+                    <div>
+                      Maintenance (Service and Repairs)
+                    </div>
+                  </div>
+                  <div class="w-full justify-start items-center gap-4 inline-flex">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#22C55E" viewBox="0 0 256 256">
+                      <path
+                        d="M225.86,102.82c-3.77-3.94-7.67-8-9.14-11.57-1.36-3.27-1.44-8.69-1.52-13.94-.15-9.76-.31-20.82-8-28.51s-18.75-7.85-28.51-8c-5.25-.08-10.67-.16-13.94-1.52-3.56-1.47-7.63-5.37-11.57-9.14C146.28,23.51,138.44,16,128,16s-18.27,7.51-25.18,14.14c-3.94,3.77-8,7.67-11.57,9.14C88,40.64,82.56,40.72,77.31,40.8c-9.76.15-20.82.31-28.51,8S41,67.55,40.8,77.31c-.08,5.25-.16,10.67-1.52,13.94-1.47,3.56-5.37,7.63-9.14,11.57C23.51,109.72,16,117.56,16,128s7.51,18.27,14.14,25.18c3.77,3.94,7.67,8,9.14,11.57,1.36,3.27,1.44,8.69,1.52,13.94.15,9.76.31,20.82,8,28.51s18.75,7.85,28.51,8c5.25.08,10.67.16,13.94,1.52,3.56,1.47,7.63,5.37,11.57,9.14C109.72,232.49,117.56,240,128,240s18.27-7.51,25.18-14.14c3.94-3.77,8-7.67,11.57-9.14,3.27-1.36,8.69-1.44,13.94-1.52,9.76-.15,20.82-.31,28.51-8s7.85-18.75,8-28.51c.08-5.25.16-10.67,1.52-13.94,1.47-3.56,5.37-7.63,9.14-11.57C232.49,146.28,240,138.44,240,128S232.49,109.73,225.86,102.82Zm-11.55,39.29c-4.79,5-9.75,10.17-12.38,16.52-2.52,6.1-2.63,13.07-2.73,19.82-.1,7-.21,14.33-3.32,17.43s-10.39,3.22-17.43,3.32c-6.75.1-13.72.21-19.82,2.73-6.35,2.63-11.52,7.59-16.52,12.38S132,224,128,224s-9.15-4.92-14.11-9.69-10.17-9.75-16.52-12.38c-6.1-2.52-13.07-2.63-19.82-2.73-7-.1-14.33-.21-17.43-3.32s-3.22-10.39-3.32-17.43c-.1-6.75-.21-13.72-2.73-19.82-2.63-6.35-7.59-11.52-12.38-16.52S32,132,32,128s4.92-9.15,9.69-14.11,9.75-10.17,12.38-16.52c2.52-6.1,2.63-13.07,2.73-19.82.1-7,.21-14.33,3.32-17.43S70.51,56.9,77.55,56.8c6.75-.1,13.72-.21,19.82-2.73,6.35-2.63,11.52-7.59,16.52-12.38S124,32,128,32s9.15,4.92,14.11,9.69,10.17,9.75,16.52,12.38c6.1,2.52,13.07,2.63,19.82,2.73,7,.1,14.33.21,17.43,3.32s3.22,10.39,3.32,17.43c.1,6.75.21,13.72,2.73,19.82,2.63,6.35,7.59,11.52,12.38,16.52S224,124,224,128,219.08,137.15,214.31,142.11ZM173.66,98.34a8,8,0,0,1,0,11.32l-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35A8,8,0,0,1,173.66,98.34Z">
+                      </path>
+                    </svg>
+                    <div>
+                      Driver Recruitment and Management
+                    </div>
+                  </div>
                 </div>
               </div>
-              <div
-                style="width: 393px; color: #E2E8F0; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                Maintenance (Service and Repairs)</div>
-            </div>
-            <div style="width: 483px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
-              <div style="width: 32px; height: 32px; position: relative">
-                <div
-                  style="width: 27.50px; height: 27.50px; left: 2.25px; top: 2.25px; position: absolute; background: #22C55E">
-                </div>
-              </div>
-              <div
-                style="width: 423px; color: #E2E8F0; font-size: 24px; font-family: Martel Sans; font-weight: 400; word-wrap: break-word">
-                Driver Recruitment and Management </div>
             </div>
           </div>
         </div>
@@ -348,5 +344,6 @@
           </div>
         </div>
       </div>
-  </section>
-</div></template>
+    </section>
+  </div>
+</template>
