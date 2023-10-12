@@ -5,5 +5,6 @@ import LandingHeader from '~/components/LandingHeader.vue';
       <LandingMenu />
       <LandingHero/>
       <MainContent/>
+      <LandingFooter/>
     </div>
 </template>
